@@ -6,7 +6,7 @@ This is a Python-based calculator that computes the simple interest based on the
 
 The formula for calculating simple interest is:
 
-Simple Interest = Principal*Time*Rate
+$Simple\ Interest = Principal \times Time \times Rate$
 
 Where:
 - **Principal (p)**: The initial amount of money invested or loaned.
